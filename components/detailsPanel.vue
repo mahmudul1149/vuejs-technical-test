@@ -28,6 +28,7 @@ export default {
   background-color: #ddd;
   padding: 20px;
   color: black;
+  border-radius: 35px;
 }
 .details-view .title {
   font-family: "Roboto", sans-serif;
